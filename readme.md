@@ -49,7 +49,7 @@ This repository contains basic understanding of Linux, insights, commands, usefu
 
 <b>
 
-- [key terms](./data/)  
+- [key terms](./data/00-key_terms)  
 
 - [introduction](./data/01-introduction/introduction.md)
 

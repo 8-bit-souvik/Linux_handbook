@@ -18,21 +18,22 @@ This repository contains basic understanding of Linux, insights, commands, usefu
 <details style="cursor: pointer;"><summary><b> some external resources</b></summary>
 <p>
 
-#### yes, even hidden code blocks!
 
 ### DOCs
 
+- [From UBUNTU docs](https://ubuntu.com/tutorials/command-line-for-beginners)
+
 ### video lecture
 
-[within 25 minutes (Hindi)](https://www.youtube.com/watch?v=BGjTboXjH28)
+- [within 25 minutes (English)](https://www.youtube.com/watch?v=SkB-eRCzWIU)
 
-[playlist (English)](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
+- [within 25 minutes (Hindi)](https://www.youtube.com/watch?v=BGjTboXjH28)
+
+- [playlist (English)](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
 
 ### PDF
 
-```python
-print("hello world!")
-```
+- [Linux Fundamentals](https://www.computer-pdf.com/operating-system/linux/786-tutorial-linux-fundamentals.html)
 
 </p>
 </details>

@@ -10,14 +10,41 @@ This repository contains basic understanding of Linux, insights, commands, usefu
 <hr>
 <br/>
 
+
+
 ## New to linux? 
 ##  Your guide is waiting [here](./guide/guide.md) 
+
+<details style="cursor: pointer;"><summary><b> some external resources</b></summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+### DOCs
+
+### video lecture
+
+[within 25 minutes (Hindi)](https://www.youtube.com/watch?v=BGjTboXjH28)
+
+[playlist (English)](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
+
+### PDF
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
 
 
 <br/>
 <br/>
 
 ## Index
+
+<b>
 
 - [key terms](./data/)  
 
@@ -43,6 +70,7 @@ This repository contains basic understanding of Linux, insights, commands, usefu
 
 - [FAQs](./data/11-FAQs)
 
+</b>
 <br/>
 <br/>
 
@@ -57,3 +85,46 @@ That PR will be proceed as per the understanding among contributor and maintaine
 <br/>
 
 read our [policy](./.github/CODE_OF_CONDUCT)
+
+
+
+
+
+Hide source code:
+
+```{r, echo=FALSE}
+1 + 1
+```
+
+Hide text output (you can also use `results = FALSE`):
+
+```PHP
+print("You will not see the text output.")
+```
+
+Hide messages:
+
+```{r, message=FALSE}
+message("You will not see the message.")
+```
+
+Hide warning messages:
+
+```{r, warning=FALSE}
+# this will generate a warning but it will be suppressed
+1:2 + 1:3
+```
+
+Hide plots:
+
+```{r, fig.show='hide'}
+plot(cars)
+```
+
+Note that the plot will be generated in the above chunk. It is
+just not displayed in the output.
+
+
+
+[comment]: <> (in  the output file unless you use it in)
+[comment]: <> (a reference style link.)

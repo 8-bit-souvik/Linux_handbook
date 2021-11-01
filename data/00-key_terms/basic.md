@@ -7,15 +7,16 @@
 - [device driver]()
 - [GNU]()
 - [CLI & GUI]()
-- [Unity]()
-- [GNOME]()
-- [Terminal/Console]()
-- [ROOT]()
-- [Binaries]()
-- [Package Manager]()
-- [apt-get and rpm]()
+- [Unity]()<span style="color:grey">_______________yet to publish </span>
+- [GNOME]()<span style="color:grey">_______________yet to publish </span>
+- [Terminal/Console]()<span style="color:grey">____yet to publish </span>
+- [ROOT]()<span style="color:grey">________________yet to publish </span>
+- [Binaries]()<span style="color:grey">____________yet to publish </span>
+- [Package Manager]()<span style="color:grey">_____yet to publish </span>
+- [apt-get and rpm]()<span style="color:grey">_____yet to publish </span>
 
-
+<br>
+<br>
 
 ## Boot & reboot
 
@@ -55,3 +56,32 @@ The kernel is the most important part of the operating system. It is the primary
 <img src="./images/kernel.png">
 
 [know more](https://en.wikipedia.org/wiki/Kernel_(operating_system))
+
+<br>
+
+## device driver
+
+A device driver is a small piece of software that tells the operating system and other software how to communicate with a piece of hardware.<br>
+For example, printer drivers tell the operating system, and by extension whatever program you have the thing you want to print open in, exactly how to print information on the page
+
+[know more](https://en.wikipedia.org/wiki/Device_driver)
+
+<br>
+
+
+## GNU
+
+GNU stands for '`GNU's Not UNIX`'. It is a UNIX like computer operating system, but unlike UNIX, it is free software and contains no UNIX code. It is pronounced as guh-noo. Sometimes, it is also written as GNU General Public License. It is based on the GNU Hurd kernel and It is intended to develop and share software for free, for all its users.
+
+[know more](https://www.gnu.org/gnu/gnu-history.en.html)
+
+<br>
+
+## CLI & GUI
+
+If we want to operate a machine we need a interface through which we can give instructions as input and get result as output. In computer we have two type of interface <b>CLI (Command Line Interface)</b> and <b>GUI (Graphical User Interface)</b>
+
+- CLI - you may have seen a dark screen where where user have to put command to perform any task. Here we don't have any button or graphical design, e.g. <b>Comand Prompt, PowerShell, BASH </b>. The program which handles this interface is called a command-line interpreter or command-line processor. 
+[know more](https://en.wikipedia.org/wiki/Command-line_interface)
+
+- GUI - A graphical user interface is an interface program that allows users to interact with a computer through its graphic display like button, slide bar, icons, pointer etc. Everyting what you can interact with mouse except terminal is GUI.

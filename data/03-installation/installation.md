@@ -23,3 +23,17 @@ Most computers are set to boot into the hard drive first, which means you will n
 3. <span style="color:orange">Try out the Linux distribution before installing </span> 
 
  Most Live CDs and USBs can launch a "live environment", giving you the ability to test it out before making the switch. You won’t be able to create files, but you can navigate around the interface and decide if it’s right for you. 
+
+
+
+ .
+
+ .
+
+ .
+
+ .
+
+ .
+ 
+ yet to publish...

@@ -85,17 +85,17 @@ Linus Torvalds
    ### <span style="color:orange"> Text mode interface: </span>
    	BASH (Bourne Again SHell) is the Linux default shell. It can support multiple command interpreters.
      
-      Originally the Bourne Shell. Now it's compatible with many others including BASH, Korn & C.
+   Originally the Bourne Shell. Now it's compatible with many others including BASH, Korn & C.
    
    ### <span style="color:orange"> What is it?
    	Linux is an example of Open Source software development and Free Operating System (OS). 
    	
-      Unix is an operating system that is very popular in universities, companies, big enterprises etc.
+   Unix is an operating system that is very popular in universities, companies, big enterprises etc.
    
    ### <span style="color:orange"> GUI: </span>
    	Linux typically provides two GUIs, KDE and Gnome. But there are millions of alternatives such as LXDE, Xfce, Unity, Mate, twm, ect. 
    	
-      Initially Unix was a command based OS, but later a GUI was created called Common Desktop Environment Most distributions now ship with Gnome.
+   Initially Unix was a command based OS, but later a GUI was created called Common Desktop Environment Most distributions now ship with Gnome.
    
    ### <span style="color:orange"> Price: </span>
    	Free but support is available for a price. 	
@@ -120,7 +120,7 @@ Linus Torvalds
    ### <span style="color:orange"> Architectures: </span>
    	Originally developed for Intel's x86 hardware, ports available for over two dozen CPU types including ARM is available on PA-RISC and Itanium machines.
    
-      Solaris also available for x86/x64 based systems.OSX is PowerPC(10.0-10.5)/x86(10.4)/x64(10.5-10.8)
+   Solaris also available for x86/x64 based systems.OSX is PowerPC(10.0-10.5)/x86(10.4)/x64(10.5-10.8)
    
    ### <span style="color:orange"> Inception: </span>
    	Inspired by MINIX (a Unix-like system) and eventually after adding many features of GUI, Drivers etc, Linus Torvalds developed the framework of the OS that became LINUX in 1992. The LINUX kernel was released on 17th September, 1991

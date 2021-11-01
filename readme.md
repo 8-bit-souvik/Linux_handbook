@@ -51,7 +51,7 @@ This repository contains basic understanding of Linux, insights, commands, usefu
 
 - [key terms](./data/00-key_terms)  
 
-- [introduction](./data/01-introduction/introduction.md)
+- [introduction](./data/01-introduction/)
 
 - [variants & distros](./data/02-distros_&_enviornments)
 

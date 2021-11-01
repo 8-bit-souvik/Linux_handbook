@@ -6,7 +6,7 @@ Linux is a popular operating system, which is designed on the base of Linux Kern
 
 ## Open source
 
-Linux is also distributed under an open source license. Open source follows these key tenants: </span>
+Linux is also distributed under an open source license. Open source follows these key tenants: 
 
    - The freedom to run the program, for any purpose.
 
@@ -52,80 +52,80 @@ Linus Torvalds
 
 <br>
  
-   ### <span style="color:orange"> Cost: </span>
+   ###  Cost: 
    	- Linux can be freely distributed, downloaded freely, distributed through magazines, Books etc. There are priced versions for Linux also, but they are normally cheaper than Windows. 
    
    	- Different flavors of Unix have different cost structures according to vendors
    
-   ### <span style="color:orange"> Development and Distribution: </span>
+   ###  Development and Distribution: 
    	Linux is developed by Open Source development i.e. through sharing and collaboration of code and features through forums etc and it is distributed by various vendors.
    
    	Unix systems are divided into various other flavors, mostly developed by AT&T as well as various commercial vendors and non-profit organizations.
    
-   ### <span style="color:orange"> Manufacturer: </span>
+   ###  Manufacturer: 
    	Linux kernel is developed by the community. Linus Torvalds oversees things.
    
    	Three bigest distributions are Solaris (Oracle), AIX (IBM) & HP-UX Hewlett Packard. And Apple Makes OSX, an unix based os..
    
-   ### <span style="color:orange"> User: </span>
+   ###  User: 
    	Everyone. From home users to developers and computer enthusiasts alike.
    
    	Unix operating systems were developed mainly for mainframes, servers and workstations except OSX, Which is designed for everyone. The Unix environment and the client-server program model were essential elements in the development of the Internet
    
-   ### <span style="color:orange"> Usage: </span>
+   ###  Usage: 
    	Linux can be installed on a wide variety of computer hardware, ranging from mobile phones, tablet computers and video game consoles, to mainframes and supercomputers.
    	
      The UNIX operating system is used in internet servers, workstations & PCs. Backbone of the majority of finance infastructure and many 24x365 high availability solutions.
    
-   ### <span style="color:orange"> File system support: </span>
+   ###  File system support: 
    	Ext2, Ext3, Ext4, Jfs, ReiserFS, Xfs, Btrfs, FAT, FAT32, NTFS 
    
    	jfs, gpfs, hfs, hfs+, ufs, xfs, zfs format
    
-   ### <span style="color:orange"> Text mode interface: </span>
+   ###  Text mode interface: 
    	BASH (Bourne Again SHell) is the Linux default shell. It can support multiple command interpreters.
      
-   Originally the Bourne Shell. Now it's compatible with many others including BASH, Korn & C.
+     Originally the Bourne Shell. Now it's compatible with many others including BASH, Korn & C.
    
-   ### <span style="color:orange"> What is it?
+   ###  What is it?
    	Linux is an example of Open Source software development and Free Operating System (OS). 
    	
    Unix is an operating system that is very popular in universities, companies, big enterprises etc.
    
-   ### <span style="color:orange"> GUI: </span>
+   ###  GUI: 
    	Linux typically provides two GUIs, KDE and Gnome. But there are millions of alternatives such as LXDE, Xfce, Unity, Mate, twm, ect. 
    	
    Initially Unix was a command based OS, but later a GUI was created called Common Desktop Environment Most distributions now ship with Gnome.
    
-   ### <span style="color:orange"> Price: </span>
+   ###  Price: 
    	Free but support is available for a price. 	
    
      Some free for development use (Solaris) but support is available for a price.
    
-   ### <span style="color:orange"> Security: </span>
+   ###  Security: 
    	Linux has had about 60-100 viruses listed till date. None of them actively spreading nowadays. 
    
    	A rough estimate of UNIX viruses is between 85 -120 viruses reported till date.
    
-   ### <span style="color:orange"> Processors: </span>
+   ###  Processors: 
    	Dozens of different kinds.
    
    	x86/x64, Sparc, Power, Itanium, PA-RISC, PowerPC and many others.
    
-   ### <span style="color:orange"> Examples: </span>
+   ###  Examples: 
    	Ubuntu, Fedora, Red Hat, Debian, Archlinux, Android etc.
    
    	OS X, Solaris, All Linux
    
-   ### <span style="color:orange"> Architectures: </span>
+   ###  Architectures: 
    	Originally developed for Intel's x86 hardware, ports available for over two dozen CPU types including ARM is available on PA-RISC and Itanium machines.
    
    Solaris also available for x86/x64 based systems.OSX is PowerPC(10.0-10.5)/x86(10.4)/x64(10.5-10.8)
    
-   ### <span style="color:orange"> Inception: </span>
+   ###  Inception: 
    	Inspired by MINIX (a Unix-like system) and eventually after adding many features of GUI, Drivers etc, Linus Torvalds developed the framework of the OS that became LINUX in 1992. The LINUX kernel was released on 17th September, 1991
    
    	In 1969, it was developed by a group of AT&T employees at Bell Labs and Dennis Ritchie. It was written in “C” language and was designed to be a portable, multi-tasking and multi-user system in a time-sharing configuration.
 
 
-## <span style="color:orange">some *blue* text</span>.
+## some *blue* text.

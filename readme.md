@@ -1,6 +1,8 @@
 <div align="center">
 <h1>Linux-Handbook_</h1>
 
+  ![linux_mascot](https://user-images.githubusercontent.com/72222987/139702953-c79c5f8f-80d1-4412-a955-85536f25357e.jpg)
+  
 <p>
 This repository contains basic understanding of Linux, insights, commands, useful tricks, troubleshooting, interesting usages for Linux Shell commands, it will be especially useful for people getting started with linux, beginners, and want to make linux as their primary OS. content of this repo will be updated periodically.
 </p>

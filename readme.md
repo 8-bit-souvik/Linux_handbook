@@ -13,8 +13,8 @@ This repository contains basic understanding of Linux, insights, commands, usefu
 
 
 ## New to linux? 
-##  Your guide is waiting [here](./guide/guide.md) 
-
+<!-- ##  Your guide is waiting [here](./guide/guide.md) 
+-->
 <details style="cursor: pointer;"><summary><b> some external resources</b></summary>
 <p>
 

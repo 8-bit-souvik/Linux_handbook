@@ -87,5 +87,5 @@ That PR will be proceed as per the understanding among contributor and maintaine
 <hr>
 <br/>
 
-read our [policy](./.github/CODE_OF_CONDUCT)
+read our [policy](.github/CODE_OF_CONDUCT.md)
 

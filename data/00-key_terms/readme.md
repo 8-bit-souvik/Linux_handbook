@@ -6,6 +6,7 @@
 - [kernel]()
 - [device driver]()
 - [GNU]()
+- [GRUB]()
 - [CLI & GUI]()
 - [Unity]()<span style="color:grey">_______________yet to publish </span>
 - [GNOME]()<span style="color:grey">_______________yet to publish </span>
@@ -42,7 +43,7 @@ Every electronic devices `e.g. microwave oven, AC, TV, Washing machine` which ha
 <br>
 
 ## Boot Loader
-A boot loader program is typically started after the computer or the BIOS have finished performing the initial power and hardware device checks and tests.<br> It fetches the <b>`kernel`</b> from the hard disk or any specified boot device within the boot sequence, into the main memory.
+A bootloader is the first software that runs when a computer starts. It is typically started after the computer or the BIOS have finished performing the initial power and hardware device checks and tests.<br> It fetches the <b>`kernel`</b> from the hard disk or any specified boot device within the boot sequence, into the main memory.
 
 An operating system can have single bootloader or multiple boot loader programs classified as primary and secondary boot loaders, where a secondary boot loader might be larger and more capable than the primary boot loader.
 
@@ -52,6 +53,8 @@ An operating system can have single bootloader or multiple boot loader programs 
 
 Basically It's a kind of bridge between Hardware and Software.<br>
 The kernel is the most important part of the operating system. It is the primary interface between the hardware and the processes of a computer. The kernel connects these two in order to adjust resources as effectively as possible.
+
+While starting a computer after bootloader loads the kernel in computer's RAM then it (the kernel) initializes the rest of the operating system: shell, display manager, desktop environment, etc.
 
 <img src="./images/kernel.png">
 
@@ -74,6 +77,20 @@ For example, printer drivers tell the operating system, and by extension whateve
 GNU stands for '`GNU's Not UNIX`'. It is a UNIX like computer operating system, but unlike UNIX, it is free software and contains no UNIX code. It is pronounced as guh-noo. Sometimes, it is also written as GNU General Public License. It is based on the GNU Hurd kernel and It is intended to develop and share software for free, for all its users.
 
 [know more](https://www.gnu.org/gnu/gnu-history.en.html)
+
+<br>
+
+## GRUB
+
+`Grand Unified Bootloader` or `GRUB` is a bootloader available from the GNU project. It is a complete program for loading and managing the boot process. It is the most common bootloader for Linux distributions.
+
+If there occuers any trouble before loading the kernel, computer will enter in grub rescue mode shell where user have operate manually for further process of booting.
+
+we will discuss about it's trouble shoot later.
+
+<img src="./images/grub_rescue.jpeg">
+
+[know more](https://www.gnu.org/software/grub/index.html)
 
 <br>
 

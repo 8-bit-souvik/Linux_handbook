@@ -30,7 +30,7 @@ In 1991, while studying computer science at University of Helsinki, <b>Linus Tor
 
 
 ## UNIX 
-Unix (/ˈjuːnɪks/; trademarked as UNIX) is a family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix, whose development started in 1969 at the Bell Labs research center by Ken Thompson, <b>Dennis Ritchie</b>, and others.
+Unix is a family of multitasking, multiuser computer operating systems that derive from the original AT&T Unix, whose development started in 1969 at the Bell Labs research center by Ken Thompson, <b>Dennis Ritchie</b>, and others.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src='./images/dennis-ritchie.jpg'> 

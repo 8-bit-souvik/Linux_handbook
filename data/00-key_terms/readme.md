@@ -86,9 +86,11 @@ GNU stands for '`GNU's Not UNIX`'. It is a UNIX like computer operating system, 
 
 If there occuers any trouble before loading the kernel, computer will enter in grub rescue mode shell where user have operate manually for further process of booting.
 
+<img src="./images/grub_rescue.jpeg" width="400">
 we will discuss about it's trouble shoot later.
 
-<img src="./images/grub_rescue.jpeg">
+<br>
+<br>
 
 [know more](https://www.gnu.org/software/grub/index.html)
 

@@ -1,6 +1,5 @@
 Key topics:--
 
-- [GRUB]
 - [Sudo]
 - [Mounting]
 - [Alias]

@@ -1,10 +1,10 @@
 ## INDEX
-- [Boot & Reboot]()
+- [Boot & Reboot](#Boot--Reboot)
 - [Boot Disk](#Boot-Disk)
 - [firmware](#firmware)
 - [Bootloader](#Bootloader)
 - [kernel](#kernel)
-- [device driver](#device driver)
+- [device driver](#device-driver)
 - [GNU](#GNU)
 - [GRUB](#GRUB)
 - [CLI & GUI](#CLI--GUI)

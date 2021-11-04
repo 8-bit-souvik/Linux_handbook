@@ -53,7 +53,7 @@ This repository contains basic understanding of Linux, insights, commands, usefu
 
 - [introduction](./data/01-introduction/)
 
-- [variants & distros](./data/02-distros_&_enviornments)
+- [distros & environments](./data/02-distros_&_enviornments)
 
 - [installation](./data/03-installation)
 

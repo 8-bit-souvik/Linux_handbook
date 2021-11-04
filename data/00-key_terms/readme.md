@@ -1,19 +1,19 @@
 ## INDEX
 - [Boot & Reboot]()
-- [Boot Disk](/#Boot-Disk)
+- [Boot Disk](#Boot-Disk)
 - [firmware](#firmware)
-- [Bootloader]()
-- [kernel]()
-- [device driver]()
-- [GNU]()
-- [GRUB]()
-- [CLI & GUI]()
-- [Unity]()<span style="color:grey">_______________yet to publish </span>
-- [GNOME]()<span style="color:grey">_______________yet to publish </span>
+- [Bootloader](#Bootloader)
+- [kernel](#kernel)
+- [device driver](#device driver)
+- [GNU](#GNU)
+- [GRUB](#GRUB)
+- [CLI & GUI](#CLI--GUI)
+- [Unity](#Unity)<span style="color:grey">_______________yet to publish </span>
+- [GNOME](#GNOME)<span style="color:grey">_______________yet to publish </span>
 - [Terminal/Console]()<span style="color:grey">____yet to publish </span>
-- [ROOT]()<span style="color:grey">________________yet to publish </span>
-- [Binaries]()<span style="color:grey">____________yet to publish </span>
-- [Package Manager]()<span style="color:grey">_____yet to publish </span>
+- [ROOT](#ROOT)<span style="color:grey">________________yet to publish </span>
+- [Binaries](#Binaries)<span style="color:grey">____________yet to publish </span>
+- [Package Manager](#Package-Manager)<span style="color:grey">_____yet to publish </span>
 - [apt-get and rpm]()<span style="color:grey">_____yet to publish </span>
 
 <br>

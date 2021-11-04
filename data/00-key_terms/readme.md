@@ -1,7 +1,7 @@
 ## INDEX
 - [Boot & Reboot]()
 - [Boot Disk](/#Boot-Disk)
-- [firmware](#firmwire)
+- [firmware](#firmware)
 - [Bootloader]()
 - [kernel]()
 - [device driver]()

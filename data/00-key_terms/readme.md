@@ -1,7 +1,7 @@
 ## INDEX
 - [Boot & Reboot]()
 - [Boot Disk](/#Boot-Disk)
-- [firmwire]()
+- [firmware](#firmwire)
 - [Bootloader]()
 - [kernel]()
 - [device driver]()
@@ -34,7 +34,7 @@ If the bootable disk is removable media (e.g., USB or CD-ROM), it bypasses the h
 
 <br>
 
-## Firmwire
+## Firmware
 
 Firmware is a software program or set of instructions programmed on a hardware device. It provides the necessary instructions for how the device communicates with the other computer hardware. It is typically stored in the flash ROM of a hardware device. While ROM is "read-only memory," flash ROM can be erased and rewritten because it is actually a type of flash memory.
 

@@ -42,7 +42,7 @@ Every electronic devices `e.g. microwave oven, AC, TV, Washing machine` which ha
 
 <br>
 
-## Boot Loader
+## Bootloader
 A bootloader is the first software that runs when a computer starts. It is typically started after the computer or the BIOS have finished performing the initial power and hardware device checks and tests.<br> It fetches the <b>`kernel`</b> from the hard disk or any specified boot device within the boot sequence, into the main memory.
 
 An operating system can have single bootloader or multiple boot loader programs classified as primary and secondary boot loaders, where a secondary boot loader might be larger and more capable than the primary boot loader.

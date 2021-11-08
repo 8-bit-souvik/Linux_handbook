@@ -2,6 +2,14 @@
 
 Linux has a number of different versions to suit any type of user. From new users to hard-core users, you’ll find a “flavor” of Linux to match your needs. These versions are called distributions (or, in the short form, “distros”). Nearly every distribution of Linux can be downloaded for free, burned onto disk (or USB thumb drive), and installed (on as many machines as you like).
 
+<br>
+
+## So many Distros! Why & How?
+
+https://user-images.githubusercontent.com/72222987/140683920-856c1742-7f99-4c13-b2bf-890f9be543f9.mp4
+
+
+
 Popular Linux distributions include:
 
    - DEBIAN

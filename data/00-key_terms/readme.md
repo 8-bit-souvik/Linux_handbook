@@ -8,7 +8,7 @@
 - [GNU](#GNU)
 - [GRUB](#GRUB)
 - [CLI & GUI](#CLI--GUI)
-- [Unity](#Unity)<span style="color:grey">_______________yet to publish </span>
+- [Unity](#Unity)
 - [GNOME](#GNOME)<span style="color:grey">_______________yet to publish </span>
 - [Terminal/Console]()<span style="color:grey">____yet to publish </span>
 - [ROOT](#ROOT)<span style="color:grey">________________yet to publish </span>
@@ -104,3 +104,11 @@ If we want to operate a machine we need a interface through which we can give in
 [know more](https://en.wikipedia.org/wiki/Command-line_interface)
 
 - GUI - A graphical user interface is an interface program that allows users to interact with a computer through its graphic display like button, slide bar, icons, pointer etc. Everyting what you can interact with mouse except terminal is GUI.
+
+<br>
+
+## Unity
+
+Unity is a graphical shell for the GNOME desktop environment originally developed by Canonical Ltd. for its Ubuntu operating system, and now being developed by the Unity7 Maintainers and UBports. Unity debuted in the netbook edition of Ubuntu 10.10.
+
+[know more](https://www.omgubuntu.co.uk/2017/04/best-unity-desktop-features)

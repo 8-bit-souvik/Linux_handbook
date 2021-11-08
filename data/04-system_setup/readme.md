@@ -3,7 +3,7 @@ Key topics:--
 - [Sudo]
 - [Mounting]
 - [Alias]
-- [linking]
+- [symbolic linking]
 - [dpkg]
 - [apt]
 

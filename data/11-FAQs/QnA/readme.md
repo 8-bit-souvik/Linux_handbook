@@ -25,6 +25,9 @@ filename completion    No   Yes*  Yes   Yes*   Yes
 command line editing   No   No    Yes   Yes*   Yes
 
 job control            No   Yes   Yes   Yes    Yes
+________________________________________________________
+
+* not the default setting for this shell
 
 ```
 

@@ -1,1 +1,1 @@
-- [Difference between Bash, Shell, UXTerm and Terminal]()
+- [Difference between Bash, Shell, UXTerm and Terminal](QnA#difference-between-bash-shell-uxterm-and-terminal)

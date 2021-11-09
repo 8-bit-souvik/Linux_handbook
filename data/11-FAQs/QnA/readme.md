@@ -1,4 +1,4 @@
-## Difference between Bash, Shell, UXTerm and Terminal
+## Difference between Bash, Shell, UXTerm and Terminal and other shells
 
 In linux they can all look the same from the point of view of the user at the keyboard. The differences are in how they interact with each other.
 

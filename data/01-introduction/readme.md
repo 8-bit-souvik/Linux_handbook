@@ -127,5 +127,3 @@ Linus Torvalds
    
    	In 1969, it was developed by a group of AT&T employees at Bell Labs and Dennis Ritchie. It was written in “C” language and was designed to be a portable, multi-tasking and multi-user system in a time-sharing configuration.
 
-
-## some *blue* text.

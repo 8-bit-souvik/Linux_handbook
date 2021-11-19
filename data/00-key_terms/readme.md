@@ -10,7 +10,7 @@
 - [CLI & GUI](#CLI--GUI)
 - [Unity](#Unity)
 - [GNOME](#GNOME)
-- [Terminal/Console]()
+- [Terminal/Console](#terminalconsole)
 - [Root User](#Root-user)
 - [Binaries](#Binaries)
 - [Package Manager](#Package-Manager)

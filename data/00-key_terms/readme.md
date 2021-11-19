@@ -14,7 +14,7 @@
 - [Root User](#Root-user)
 - [Binaries](#Binaries)
 - [Package Manager](#Package-Manager)
-- [apt-get and rpm](#APT-get-&-RPM)
+- [apt-get and rpm](#apt-get--rpm)
 
 <br>
 <br>

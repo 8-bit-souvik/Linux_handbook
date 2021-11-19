@@ -10,11 +10,11 @@
 - [CLI & GUI](#CLI--GUI)
 - [Unity](#Unity)
 - [GNOME](#GNOME)
-- [Terminal/Console]()<span style="color:grey">____yet to publish </span>
-- [ROOT](#ROOT)<span style="color:grey">________________yet to publish </span>
-- [Binaries](#Binaries)<span style="color:grey">____________yet to publish </span>
-- [Package Manager](#Package-Manager)<span style="color:grey">_____yet to publish </span>
-- [apt-get and rpm]()<span style="color:grey">_____yet to publish </span>
+- [Terminal/Console]()
+- [Root User](#Root-user)
+- [Binaries](#Binaries)
+- [Package Manager](#Package-Manager)
+- [apt-get and rpm](#APT-get-&-RPM)
 
 <br>
 <br>
@@ -117,9 +117,57 @@ Unity is a graphical shell for the GNOME desktop environment originally develope
 
 ## Gnome
 
-GNOME is a free and open-source [desktop environment]() for Unix-like operating systems. It is an official flavor of Ubuntu, featuring the GNOME desktop environment. GNOME was originally an acronym for <br>GNU Network Object Model Environment</b>, but the acronym was dropped because it no longer reflected the vision of the GNOME project.
+GNOME is a free and open-source [desktop environment](https://github.com/8-bit-souvik/Linux_handbook/tree/main/data/02-distros_%26_enviornments#what-is-desktop-envionment) for Unix-like operating systems. It is an official flavor of Ubuntu, featuring the GNOME desktop environment. GNOME was originally an acronym for <br>GNU Network Object Model Environment</b>, but the acronym was dropped because it no longer reflected the vision of the GNOME project.
 
 [know more](https://en.wikipedia.org/wiki/GNOME)
 
 <br>
 
+## Terminal/Console
+
+In the linux world they can all look the same from the point of view of the user at the keyboard. The differences are in how they interact with each other.
+
+The `<b>shell</b>` is the program which actually processes commands and returns output. Most shells also manage foreground and background processes, command history and command line editing. These features (and many more) are standard in bash, the most common shell in modern linux systems.
+
+A `<b>terminal</b>` refers to a wrapper program which runs a shell. Decades ago, this was a physical device consisting of little more than a monitor and keyboard. As unix/linux systems added better multiprocessing and windowing systems, this terminal concept was abstracted into software. Now you have programs such as Gnome Terminal which launches a window in a Gnome windowing environment which will run a shell into which you can enter commands.
+
+The `<b>console</b>` is a special sort of terminal. Historically, the console was a single keyboard and monitor plugged into a dedicated serial console port on a computer used for direct communication at a low level with the operating system. Modern linux systems provide virtual consoles. These are accessed through key combinations (e.g. Alt+F1 or Ctrl+Alt+F1; the function key numbers different consoles) which are handled at low levels of the linux operating system -- this means that there is no special service which needs to be installed and configured to run. Interacting with the console is also done using a shell program.
+
+source: [superuser.com](https://superuser.com/questions/144666/what-is-the-difference-between-shell-console-and-terminal)
+
+<br>
+
+## Root user
+
+The root user, also known as the superuser or administrator, is a special user account in Linux used for system administration. It is the most privileged user on the Linux system and it has access to all commands and files. The root user can do many things an ordinary user cannot, such as installing new software, changing the ownership of files, and managing other user accounts.
+
+[know more](https://mediatemple.net/community/products/dv/204643890/an-introduction-to-the-root-user)
+
+<br>
+
+## Binaries
+
+Compiled computer programs are typical examples; indeed, compiled applications are sometimes referred to, particularly by programmers, as binaries. 
+Binary files include image files, sound files, executable (i.e., runnable) programs and compressed data files. typically done by a linker. In computer science, a library is a collection of subroutines or classes used to develop software. Libraries contain code and data that provide services to independent programs.
+
+<br>
+
+## Package Manager
+
+A package manager is a tool to import external dependencies, package, software. We don’t have to reinvent the wheel and are able to make the most of the tools at your disposal. using any package manager we can install any program with a single command which makes our task easier.
+Like, in ubuntu using <b>apt</b> package manager we can install/uninstall/update/fix any program with a single command
+
+<br>
+
+## APT-get & RPM
+
+apt-get is the command-line tool for handling packages, and may be considered the user's "back-end" to other tools using the APT library. Several "front-end" interfaces exist, such as synaptic and aptitude.
+
+- Synopsis:
+ apt-get [options] [-o config=string] [-c=cfgfile] command [pkg]
+
+[know more](https://linux.die.net/man/8/apt-get)
+
+rpm is a powerful Package Manager, which can be used to build, install, query, verify, update, and erase individual .rpm software packages.
+
+[know more](https://rpm.org/)

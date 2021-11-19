@@ -9,7 +9,7 @@
 - [GRUB](#GRUB)
 - [CLI & GUI](#CLI--GUI)
 - [Unity](#Unity)
-- [GNOME](#GNOME)<span style="color:grey">_______________yet to publish </span>
+- [GNOME](#GNOME)
 - [Terminal/Console]()<span style="color:grey">____yet to publish </span>
 - [ROOT](#ROOT)<span style="color:grey">________________yet to publish </span>
 - [Binaries](#Binaries)<span style="color:grey">____________yet to publish </span>
@@ -112,3 +112,14 @@ If we want to operate a machine we need a interface through which we can give in
 Unity is a graphical shell for the GNOME desktop environment originally developed by Canonical Ltd. for its Ubuntu operating system, and now being developed by the Unity7 Maintainers and UBports. Unity debuted in the netbook edition of Ubuntu 10.10.
 
 [know more](https://www.omgubuntu.co.uk/2017/04/best-unity-desktop-features)
+
+<br>
+
+## Gnome
+
+GNOME is a free and open-source [desktop environment]() for Unix-like operating systems. It is an official flavor of Ubuntu, featuring the GNOME desktop environment. GNOME was originally an acronym for <br>GNU Network Object Model Environment</b>, but the acronym was dropped because it no longer reflected the vision of the GNOME project.
+
+[know more](https://en.wikipedia.org/wiki/GNOME)
+
+<br>
+

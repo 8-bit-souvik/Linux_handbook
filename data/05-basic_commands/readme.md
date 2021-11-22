@@ -1,1 +1,31 @@
-yet to publish...
+- [system Info]()
+  - date
+  - cal
+  - uptime
+  - whoami
+  - uname
+  - cpuinfo
+  - meminfo
+  - man
+  - df
+  - du
+  - free
+  - whereis
+  - which
+  - type of listing
+- [process management]()
+  - ps
+  - kill pid
+  - killall proc
+  - bg
+  - fg
+- [file permission]()
+  - 4 - read (r)
+  - 2 - write (w)
+  - 1 - execute (x)
+   - order: owner / group / public
+  - eg:
+  - chmod 755
+- [file commands]() 
+- [network]()  
+  
